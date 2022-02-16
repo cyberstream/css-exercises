@@ -1,0 +1,13 @@
+.dark-theme {
+    background-color: black;
+    color: white;
+}
+
+.light-theme {
+    background-color: yellow;
+}
+
+.dark-theme, .light-theme {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
